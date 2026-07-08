@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="abhi_github.png" alt="GitHub Banner" width="100%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Thite</h1>
 
