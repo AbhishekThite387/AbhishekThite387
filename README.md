@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thite</h1>
-<h3 align="center">DevOps & Cloud Engineer | Building Scalable Infrastructure, One Pipeline at a Time</h3>
 
-<p align="center">Automating the cloud with AWS, Terraform, Docker & Kubernetes — and building the apps that run on top of it.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Building+Scalable+Infrastructure;Automating+Everything+with+AWS+%26+Terraform;Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
 <hr>
 
