@@ -46,24 +46,6 @@
 
 <hr>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekThite387&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekThite387&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
-<hr>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekThite387&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
-<hr>
-
-
 ## 📈 Activity Graph
 
 <p align="center">
