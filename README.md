@@ -58,10 +58,11 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekThite387&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekThite387&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 <hr>
+
 
 ## 📈 Activity Graph
 
