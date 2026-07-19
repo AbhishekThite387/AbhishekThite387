@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thite</h1>
-<h3 align="center">DevOps, Full Stack Developer & Cloud Enthusiast</h3>
+<h3 align="center">DevOps & Cloud Engineer | Building Scalable Infrastructure, One Pipeline at a Time</h3>
 
-<p align="center">Passionate about Cloud Computing, DevOps, Infrastructure as Code, CI/CD, and Automation.</p>
+<p align="center">Automating the cloud with AWS, Terraform, Docker & Kubernetes — and building the apps that run on top of it.</p>
 
 <hr>
 
