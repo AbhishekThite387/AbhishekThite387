@@ -7,11 +7,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **cloud-native and full-stack projects** using AWS, Docker, and Kubernetes
-- 🌱 Always learning about **DevOps best practices, IaC, and automation**
-- 🤝 Looking to collaborate on **open-source projects** and **cloud/DevOps initiatives**
-- 💬 Ask me about **AWS, Terraform, Docker, Kubernetes, and Full Stack Development**
-- 📫 Reach me at **thiteabhi443@gmail.com**
+- 🔭 Currently building **cloud-native infrastructure** and automating deployments with **AWS, Terraform, Docker & Kubernetes**
+- ⚙️ Obsessed with **CI/CD pipelines** — if it can be automated, it should be
+- 🌱 Deepening my knowledge of **Infrastructure as Code, container orchestration, and cloud security**
+- 💻 Also ship **full stack applications** end-to-end when the project calls for it
+- 🤝 Open to collaborating on **DevOps tooling, cloud architecture, and open-source infra projects**
+- 📫 Reach me at [thiteabhi443@gmail.com](mailto:thiteabhi443@gmail.com)
 
 <hr>
 
