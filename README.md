@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Thite</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Thite </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Engineer;Building+Scalable+Infrastructure;Automating+Everything+with+AWS+%26+Terraform;Full+Stack+Developer" alt="Typing SVG" />
