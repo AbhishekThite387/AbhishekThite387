@@ -61,7 +61,7 @@
 
 <p align="center">
   <img
-    src="https://gh-heat.anishroy.com/api/AbhishekThite387/svg?theme=green&darkMode=true"
+    src="https://gh-heat.anishroy.com/api/AbhishekThite387/svg?theme=green"
     alt="Abhishek Thite's GitHub Contributions"
     width="100%"
   />
