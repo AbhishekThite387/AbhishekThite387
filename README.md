@@ -57,6 +57,15 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekThite387&theme=github-compact&hide_border=true&custom_title=Activity%20Graph&from=2026-02-15&to=2026-08-15"
+    alt="Abhishek Thite's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
+
 <hr>
 
 ## 🌐 Connect With Me
