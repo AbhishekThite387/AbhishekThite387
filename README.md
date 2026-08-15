@@ -47,11 +47,16 @@
 
 <hr>
 
-## 📊 Contribution Graph
+## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/AbhishekThite387" alt="Abhishek Thite GitHub Contribution Graph" />
+  <img 
+    src="https://github-contributions.vercel.app/AbhishekThite387.svg" 
+    alt="Abhishek Thite's GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
+
 
 
 <hr>
