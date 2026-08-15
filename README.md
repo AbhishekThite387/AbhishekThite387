@@ -50,7 +50,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/AbhishekThite387" alt="Abhishek Thite GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/AbhishekThite387" alt="Abhishek Thite GitHub Contribution Graph" />
 </p>
 
 
