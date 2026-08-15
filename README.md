@@ -50,9 +50,9 @@
 ## 📊 Activity Graph
 
 <p align="center">
-  <img 
-    src="https://github-contributions.vercel.app/AbhishekThite387.svg" 
-    alt="Abhishek Thite's GitHub Contribution Calendar"
+  <img
+    src="https://gh-heat.anishroy.com/api/AbhishekThite387/svg?theme=green&darkMode=true"
+    alt="Abhishek Thite's GitHub Contributions"
     width="100%"
   />
 </p>
