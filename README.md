@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thite </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Engineer;Building+Scalable+Infrastructure;Automating+Everything+with+AWS+%26+Terraform;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Web+Applications;Automating+Cloud+Infrastructure" alt="Typing SVG" />
 </p>
 
 <hr>
 
 ## 🚀 About Me
 
-- 🔭 Currently building **cloud-native infrastructure** and automating deployments with **AWS, Terraform, Docker & Kubernetes**
-- ⚙️ Obsessed with **CI/CD pipelines** — if it can be automated, it should be
-- 🌱 Deepening my knowledge of **Infrastructure as Code, container orchestration, and cloud security**
-- 💻 Also ship **full stack applications** end-to-end when the project calls for it
-- 🤝 Open to collaborating on **DevOps tooling, cloud architecture, and open-source infra projects**
+- 💻 Building **full-stack web applications** using **React.js, Node.js, Express.js, FastAPI, and MongoDB**
+- ☁️ Building and deploying **cloud-native applications** using **AWS, Docker, Kubernetes & Terraform**
+- ⚙️ Automating development and deployment workflows with **CI/CD, GitHub Actions & Jenkins**
+- 🔐 Interested in **secure APIs, cloud infrastructure, DevSecOps, and scalable applications**
+- 🌱 Continuously improving my skills in **Full Stack Development, Cloud & DevOps**
+- 🤝 Open to collaborating on **Full Stack, DevOps, Cloud, and open-source projects**
 - 📫 Reach me at [thiteabhi443@gmail.com](mailto:thiteabhi443@gmail.com)
 
 <hr>
